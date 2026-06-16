@@ -4,25 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Intelligence Eagle Private Security (IEPS)
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:Arial,sans-serif;background:#0b0b0b;color:#fff;scroll-behavior:smooth}
-nav{position:fixed;top:0;width:100%;background:rgba(0,0,0,.9);padding:15px 40px;display:flex;justify-content:space-between;z-index:1000}
-nav a{color:#d4af37;text-decoration:none;margin-left:20px}
-.hero{height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;background:linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)),url('https://images.unsplash.com/photo-1511884642898-4c92249e20b6?auto=format&fit=crop&w=1600&q=80');background-size:cover}
-.hero h1{font-size:4rem;color:#d4af37}
-.hero p{margin:20px 0;font-size:1.2rem}
-.btn{display:inline-block;padding:12px 24px;margin:5px;background:#d4af37;color:#000;text-decoration:none;border-radius:6px;font-weight:bold}
-section{padding:90px 10%}
-h2{text-align:center;color:#d4af37;margin-bottom:30px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
-.card{background:rgba(255,255,255,.05);padding:20px;border:1px solid rgba(212,175,55,.3);border-radius:12px}
-.card i{font-size:2rem;color:#d4af37;margin-bottom:10px}
-.stats .card{text-align:center}
-form input,form textarea{width:100%;padding:12px;margin:8px 0;background:#111;border:1px solid #444;color:white}
-form button{padding:12px 24px;background:#d4af37;border:none;font-weight:bold;cursor:pointer}
-footer{background:#000;padding:30px;text-align:center;border-top:1px solid #333}
 </style>
 </head>
 <body>
